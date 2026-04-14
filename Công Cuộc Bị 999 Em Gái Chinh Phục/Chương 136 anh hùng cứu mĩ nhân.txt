@@ -1,5 +1,5 @@
 ============================================================
-Chương  136: anh hùng cứu mĩ nhân.
+Chương 136: anh hùng cứu mĩ nhân.
 ============================================================
 
 Những con bọ cạp khổng lồ lao đến mở những chiếc miệng rộng gớm ghiếc.
@@ -144,7 +144,7 @@ Cự hạt khôi.( Ám kim cấp 280)
 
 + Năng lượng: + 50.
 
-+ Thá»§: + 40.
++ Thủ: + 40.
 
 + Kèm theo kĩ năng:
 
@@ -154,7 +154,7 @@ Cự hạt khinh giáp.( Ám kim cấp 280)
 
 + Máu :+ 1000.
 
-+ Thá»§: + 60.
++ Thủ: + 60.
 
 + Kèm theo kĩ năng:
 
@@ -166,7 +166,7 @@ Cự hạt hộ thủ.( Ám kim cấp 280)
 
 + Năng lượng: + 50.
 
-+ Thá»§: + 20.
++ Thủ: + 20.
 
 + Công: +50.
 
@@ -176,7 +176,7 @@ Cự hạt hộ thối.( Ám kim cấp 280)
 
 + Năng lượng: + 50.
 
-+ Thá»§: + 20.
++ Thủ: + 20.
 
 + Kèm theo kĩ năng:
 
@@ -188,7 +188,7 @@ Cự hạt ngoa.( Ám kim cấp 280)
 
 + Năng lượng: + 50.
 
-+ Thá»§: + 10.
++ Thủ: + 10.
 
 + nhanh nhẹn: +20.
 
