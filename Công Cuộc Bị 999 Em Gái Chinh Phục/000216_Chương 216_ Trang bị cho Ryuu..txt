@@ -1,0 +1,201 @@
+============================================================
+Chương 216: Trang bị cho Ryuu.
+============================================================
+
+Nhin Chistina mừng rỡ không thôi. Cầm lên tiếng:
+
+-	Cần gì phải tỏ ra ung sướng đến vậy. Chờ chúng ta có thể lên được tầng cao hớn, lấy được nhiều nguyên liệu quý giá hơn thì khi đó trang  bị càng thêm ngon lành. Mấy loại trang bị này chỉ sợ đến lúc đó các ngươi lại cảm thấy chán mà vất đi ấy chứ.
+
+-	Ai chán chứ. Với bộ trang  bị như thế này, bổn tiểu thư xem ai dám ăn hiếp ta nữa.
+
+Nói rồi vất cho Cầm 1 cái ánh mắt khiêu khích. Rõ ràng người mà cô nàng nói đến ở đây là Cầm a.
+
+Cầm cũng không thèm để ý đến. Trẻ con thì chấp cái gì.
+
+Anh chàng đưa ánh mắt về phía Ryuu.
+
+-	Ryuu, đến lượt đồ của nàng rồi.
+
+Nói rồi Cầm để lên bàn 1 bộ đồ giáp nhẹ màu đen tuyền nhưng mà không che dấu được sự  bất phàm của nó.
+
+Ám dạ khôi ( ám kim đỉnh cấp lv400)
+
+Tấn công: +600.
+
+Phòng thủ: +150.
+
+Nhanh nhẹn:+ 50
+
+Năng lượng :+ 300.
+
+Máu:+1000.
+
+Kèm theo kỹ năng:
+
+Ưng nhãn: Tăng 30% tầm nhìn, có thể nhìn thấy trong đêm đồng thời  có khả năng ẩn nấp hơi thở
+
+Ám dạ khải ( ám kim đỉnh cấp lv400)
+
+Tấn công: +200.
+
+Phòng thủ: +200.
+
+Né tránh: +140.
+
+Máu:+2000.
+
+Kèm theo kỹ năng:
+
+Ẩn nấp: Khi không trong trạng thái  chiến đấu. có thể tiến vào trạng thái ẩn thân. Không thể tấn công kho duy trì trạng thái này. Mỗi giây ẩn thân tiêu hao 1 năng lương. Sau khi thoát chiến đấu 5 phút có thể khởi động lại.
+
+Chú ý: ẩn thân không phải là biến mất.Khi dính chiêu vẫn có thể hiện thân
+
+Ám dạ ngoa ( ám kim đỉnh cấp lv400)
+
+Tấn công: +250.
+
+Nhanh nhẹn:+ 120.
+
+Tốc đánh:+15%
+
+Kèm theo kỹ năng:
+
+Tăng  tốc: khi không tham gia chiến đấu tăng 30% nhanh nhẹn.
+
+Ám dạ  hộ thối ( ám kim đỉnh cấp lv400)
+
+Tấn công: +400
+
+Phòng thủ: +150.
+
+Nhanh nhẹn:+80.
+
+Máu:+1000.
+
+Kèm theo kỹ năng:
+
+Bật nhảy( chủ động): tăng độ cao khi nhảy lên. Độ cao có thể đạt được tùy theo nhanh nhẹn cùng khả năng bộc phát
+
+Ám dạ hộ thủ ( ám kim đỉnh cấp lv400)
+
+Tấn công:+300.
+
+Phòng thủ: +250.
+
+Chí mạng: +10%
+
+Máu:+1200.
+
+Ám dạ  kiếm (  kim cương cấp lv400)
+
+Tấn công: +850.
+
+Tốc đánh:+30%.
+
+Tỷ lệ chí mạng:+ 20%
+
+Xuyên giáp:+10%
+
+Kèm theo kỹ năng:
+
+Xuyên phá(bị động): kích hoạt khi tấn công vào chỗ yếu của địch nhân. Tùy vào vị trí mà tăng theo tấn công.Tối đa tăng 100% tấn công.
+
+Kịch độc tấn công: khi chiến đấu, vết thương có thể tạo ra hiệu ứng đổ máu. Đồng thời kích hoạt thuộc tính này khiến cho đối thủ giảm 3% toàn thuộc tính và gây ra  tình trạng trúng độc, giảm 100-10000 máu mỗi giây tùy vị trí.
+
+HIỆU QUẢ BỘ ĐỒ.
+
+2 kiện: tăng  120 tấn công, 20 nhanh nhẹn
+
+3 kiện: tăng 300 tấn công, 30 nhanh nhẹn, 40 né tránh
+
+4 kiện: tăng 530 tấn công, 35 nhanh nhẹn, 50 né tránh
+
+5 kiện: tăng 850 tấn công, 35 nhanh nhẹn, 50 né tránh, 5% tốc độ đánh
+
+.
+
+6 kiện: tăng 1050 tấn công, 40 nhanh nhẹn, 50 né tránh, 5% tốc độ đánh, 5% trí mạng
+
+Kèm theo kỹ năng:
+
+Ám sát thần( chủ động): khi kích hoạt. Người chơi tăng 100% tốc độ đánh, 100% tốc độ chạy và 100% trí mạng trong 1 phút. Khi tấn công có thể khiến địch nhân mê muội trong 2s( đánh vào đầu 100% mê muội). Thời gian hồi chiêu: 3  ngày.
+
+Cường đại quá cường đại. Nói không ngoa chứ  Ryuu sau khi mặc bộ đồ này nên thì Miểu sát Chistina a. đầu tiên dùng ẩn thân đến đằng sau rồi cho 1 phát mê muội. Đánh chán đánh chê hết 3s. chờ Chistina  phát động tốc biến thì mở ám sát thần đuổi theo mà ung dung đánh đi. Tuy rằng Chistina sau khi mặc bộ đồ lên thì máu cũng không còn giấy nữa nhưng mà với 10% bạo kích cùng kỹ năng xuyên phá tăng tấn công thì cô nàng cứ phải gọi là xác định đi.
+
+Đúng là vỏ quýt dày có móng tay nhọn mà. Chistina thì có thể nói là khắc chế gắt gao những đối thủ thuộc loại công cao thủ cao nhưng nhanh nhẹn ít nhưng mà lại bị những người thuần tấn công nhanh và sát thương cao  như là Ryuu.
+
+Đúng là trên thế giới không có bất cứ nghề nghiệp nào hoàn mĩ cả mà.
+
+Trong lúc Cầm cảm khái thì Ryuu cũng thay bộ đồ xong. Xem vẻ mặt của cô nàng thì khá là hài lòng đó. Đến đây thì Cầm cũng không nhịn được nữa mà vất ra 1 cái [trinh sát thuật]
+
+Ryuu Lion : (Elf: lv 401)
+
+Máu: 17000/17000.
+
+Năng lượng: 7383/7383.
+
+Công 2347.
+
+Thá»§ 1146.
+
+Nhanh nhẹn: 648.
+
+Né tránh 1012.
+
+Kỹ năng: ?????????.
+
+Xem xong chỉ số của Ryuu, Cầm thấy mặc cảm không thôi. Quá kinh khủng a,. nhất là nhanh nhẹn cùng né tránh. Nói không ngoa chứ vào vào tầm ngắm của cô nàng thì chết không có chỗ chôn.
+
+Nhưng cảm khái là cảm khái chứ Cầm vẫn thật sự cao hứng cho Ryuu a.Dù sao thì nàng ấy mạnh lên thì bọn họ leo tầng càng nhanh.
+
+Giờ đây Ryuu có xuyên thấu thì không cần lo đến vấn đề không thể nào xuyên thủng giáp của quái vật nữa rồi.
+
+Lần này nếu mà gặp lại con king kông kia đảm bảo bọn họ sẽ cho nó sm luôn.
+
+Tất nhiên nói thì nói thế cho bõ tức chứ thật ra với thực lực của bọn họ bây giờ chiến đấu cùng Kinh kong vẫn còn có phần quá sức a/
+
+Nhất là cái chiêu thức cuối. quá kinh khủng  mà.
+
+Nhưng mà chỉ cần bọn họ thực lực lại tăng thêm thì chỉ cần 4 người solo con king kông đó cũng không phải là không thể a.
+
+Nhưng đó là chuyện của tương lai.
+
+Chuyện bây giờ là chỉ đạo 2 cô nàng quen thuộc với trang bị đã. Bọn họ cũng không thể nào nhìn thấy thuộc tính của trạng bị a.
+
+Do đó Cầm  lại bỏ công bỏ sức ra để thông báo chi tiết các kỹ năng mà tràn bị mang lại cũng như hướng dẫn 1 chút cách dùng những kĩ năng đó.
+
+Khỏ nói mấy cô nàng cứ há hốc mồm ra nghe Cầm giảng giải a. Athena dường như là  đã có sức miễn dịch với những gì mà Cầm có thể mang lại nên cũng không tỏ ra quá sức kinh ngạc nhưng mà cô vẫn không nhịn được kêu lên:
+
+-	Không ngờ ngươi lại có thể phụ ma cho trang bị a. Theo ta biết người có thể làm như thế ngoài tinh linh ra thì chỉ có 1 gia tộc mà thôi. Nhưng gia tộc đó cũng có quan hệ với tinh linh. Chẳng lẽ, ngươi là con lai..
+
+Mọi ánh mắt đổ dồn vào đôi tai của Cầm. Cầm có thể phụ ma là bằng chứng tốt nhất anh chàng có liên quan đến tinh linh. Thậm chí có thể là tinh linh cũng không chừng. Nếu như thế cũng không khó lý giải vì sao Cầm có thể mạnh đến thế a. Nếu là tinh linh thì để có thể đạt đến tuổi này thì Cầm cũng cần ít nhất hơn 50 năm. Bằng đấy có thể  nói là khá đủ rồi a.
+
+Nhưng mà Cầm lại thấy khó chịu. bị mọi người nhìn chằm chằm như thế thì làm sao mà không khó chịu cho được.
+
+Anh chàng hừ lạnh nói:
+
+-	Hừ, mấy người thấy ta lớn lên còn nói ta là tinh linh được hả. Có tinh linh nào phát triển rõ rệt qua từng năm như ta không. Ta là người  ok?
+
+-	Quả thật, tinh linh  lớn lên rất chậm không thể nhanh như  vậy. Nhưng mà bán tinh linh thì không đồng dạng a. Bọn họ tuy là tinh linh nhưng mà vẫn có tuổi thọ như người bình thường chủ là sống thọ hơn mà thôi./ Tên này có khả năng là bán tinh linh.
+
+-	Bán tinh linh cái gì chứ. có thấy ta dùng pháp thuật bao giờ không. Ta là người, là người hiểu không .Chỉ là 1 người đặc biệt thôi/.
+
+-	Được rồi, mấy người không nên trên trọc Cầm nữa. dù sao hắn vẫn còn đang ốm mà.
+
+Đó là Athena. Không ngờ bà  cô này lại giải vây cho Cầm a. Anh chàng cảm kích nhìn nàng nhưng mà ngay lập tức, bao tâm tình Cảm kích bay mất tiêu:
+
+-	Các ngươi phải hiểu cho hắn. Sống cùng 1 đám phụ nữ, lại còn bắt ăn mặc như phụ nữ thì hắn bị tổn thương tâm lý và không muốn nhắc lại là đúng rồi. Mấy người không nên là như thế.
+
+Cầm có xúc động xách kiếm chém cô nàng a. Ai là người không có tâm lý bình thường. đó là bắt buộc có được không.
+
+Đã thế còn nhận ánh mắt đồng tình của mọi người làm Cầm càng cay cú không thôi. Rõ ràng bọn họ đều cho là Cầm  ngày xưa sống trong rừng rậm  phải giả gái để hòa đồng cùng chúng  tinh linh đây mà.
+
+Ta là người có được hay không.
+
+Nhưng  mà Cầm cũng tự biết thân biết phận mà không nói ra. Dù sao hắn cũng chỉ có 1 cái miệng làm sao đấu bây giờ. Thôi thì hảo hán trả thù 10 năm chưa muộn.
+
+Cầm hít 1 hơi thật sâu để mà kìm nén cái cảm xúc trong lòng, ngẩng đầu nhìn về phía Athena và nói:
+
+-	Còn đây là thứ ta làm dành riêng cho Cô.
+
+Rồi Cầm phất tay và 1 thanh thương xuất hiện..
