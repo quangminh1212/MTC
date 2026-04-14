@@ -1,0 +1,137 @@
+============================================================
+Chương 4: Lên Lv
+============================================================
+
+2h chiều, ở một bãi đất trống có một thanh niên đang cầm một cây gậy gỗ đánh liên tiếp vào một thân cây.
+
+Đó chính là thanh niên Hiệp của chúng ta, hắn đạp xe quanh sông Hồng mãi mới tìm được mỗi bãi đất trống vắng vẻ. Nếu ai mà nhìn thấy hắn ở đây cầm gậy đánh cái cây thì thể nào cũng nói:
+
+- Bệnh viện tâm thần Sài Đồng ở phía bên kia sông kìa cháu.
+
+Hắn đang thử tạo skill.
+
+Đứng vung gậy được khoảng mấy phút khi hai tay hắn bắt đầu thấy mõi thì âm thanh mà hắn mong muộn vang lên.
+
+Ting, bạn đã thực hiện một chuỗi hành động đặc biệt. Chúc mừng bạn học được kỹ năng [Đập].
+
+[Đập]: Lv 1 chủ động
+
+Dùng lực toàn thân thông qua vũ khí tung một đòn bổ từ trên xuống, gây sát thương cực lớn. Có tỉ lệ bạo kích, có tỉ lệ gây choáng váng ( stun).
+
+Mp: 10
+
+Ting, bạn đã thực hiện một chuỗi hành động đặc biệt. Chúc mừng bạn học được kỹ năng [Gậy]
+
+[Gậy]: Lv1 bị động
+
+Tăng sức tấn công vật lý khi sử dụng gậy thêm 10%
+
+Được liền 2 skill kìa!! Tâm trạng hắn lúc này cực kỳ vui, hắn liền nắm chặt cây gậy rồi hô to:
+
+Đập
+
+Xoạt, một luồng ánh sáng màu vàng nhạt bao phủ lấy cây gậy trên tay hắn.
+
+Vụt!!! Chát!!!
+
+Cây gậy đập trúng thân cây, vỏ cây liền vỡ tan, lộ ra một vết lõm sâu trên đó.
+
+Hắn cảm thấy rất thỏa mãn với kỹ năng này, vừa lúc nãy hắn đánh lâu như vậy mà chỉ bong 1 ít vỏ cây vậy mà chỉ cầm 1 skill này liền tao ra lực phá hoại như vậy.
+
+Sau đó hắn liền tiếp tục.
+
+Đập
+
+Đập
+
+-------------
+
+Lúc này đã gần 6h chiều, hắn đứng đây luyện skill mấy tiếng đồng rồi. Chiếc gậy gỗ trên tay hắn đã sớm gãy từ lâu, hắn lại kiếm 1 cây gậy khác để luyện. Cuối cùng không biết gãy mất bao nhiêu cây gậy thì kỹ năng của hắn cũng lên được mấy cấp.
+
+[Đập]: Lv 3 (83%)
+
+Dùng lực toàn thân thông qua vũ khí tung một đòn bổ từ trên xuống, gây sát thương cực lớn. Có tỉ lệ bạo kích, có tỉ lệ gây choáng váng ( stun).
+
+Mp: 16
+
+[Gậy]: Lv5 bị động
+
+Tăng sức tấn công vật lý khi sử dụng gậy thêm 50%
+
+Hắn dùng [Đập] đến hết sạch Mp thì lại đánh chay, đợi khi Mp hồi được kha khá thì lại tiếp tục dùng skill. Mất cả một buổi chiều luyện skill giờ này tay hắn mỏi nhừ cả người uể oải không chịu được, hắm liền vứt bỏ cây gậy đang cầm lên xe đạp để về nha.
+
+--------
+
+- Con về rồi đây ạ.
+
+- Mày đi đâu mà quần áo toàn bùn đất thế kia?
+
+- Con đi đá bóng với bạn ạ.
+
+- Thôi, đi tắm đi rồi vào ăn cơm.
+
+Vâng
+
+Sau khi ăn cơm xong thì mẹ hắn bảo:
+
+- Tí con rửa bát cho mẹ, tí mẹ đi họp hội phụ nữ.
+
+Ting, bạn nhận được nhiệm vụ
+
+Rửa bát:
+
+Mẹ bạn đi họp hội phụ nữ, không có ai rửa bát, hãy mau giúp đỡ bà ấy.
+
+Phần thưởng:
+
+Kinh nghiệm: 100 exp
+
+Bạn có muốn nhận nhiệm vụ không?
+
+Có.                Không.
+
+- Vâng. Nói xong hắn liền chọn có.
+
+........
+
+Ting, bạn đã hoàn thành nhiệm vụ [ rửa bát]. Bạn nhận được 100 exp.
+
+Ting, chúc mừng bạn lên Lv 3
+
+Vừa lên cấp xong hắn liền cảm thấy sự mệt mỏi do cả buổi chiều luyện skill liền biến mất sạch, tinh thần trở nên cực kỳ thoải mái. Cả người như được ngâm trong suối nước nóng vậy.
+
+- Thông tin nhân vật:
+
+Tên: Phạm Quang Hiệp
+
+Tuổi: 15
+
+Giới tính: Nam
+
+Hp: 160/160 (Hp regeneration: 1,6/s)
+
+Mp: 170/170 (Mp regeneration: 2,4/s)
+
+Lv 3: 0/300 Exp
+
+STR: 7
+
+AGI: 6
+
+VIT: 6
+
+WIS: 7
+
+INT: 7
+
+LUK: 6
+
+Điểm tự do: 15
+
+Ồ, tất cả điểm status của hắn tăng thêm 1 kìa, chẳng lẽ cứ lên 1 cấp sẽ được +1 all stat và 5 stat tự do à.
+
+Nếu vậy thì cho dù hắn không tăng điểm thì đến lv 7 là tất cả chỉ số của hắn đều đạt đến cực hạn của người bình thường rồi, tuyệt.
+
+Ngày mai là chủ nhật rồi, mình phải dành thời gian luyện skill mới được.
+
+-----------.

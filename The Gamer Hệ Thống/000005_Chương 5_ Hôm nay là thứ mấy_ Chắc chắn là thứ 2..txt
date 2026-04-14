@@ -1,0 +1,104 @@
+============================================================
+Chương 5: Hôm nay là thứ mấy? Chắc chắn là thứ 2.
+============================================================
+
+ChưÃᇛ
+¶J:ËÈC nay là thứ mấy? Chắc chắn là thứ 2.
+
+Hắn bây giờ đang đạp xe hùng hục tới trường.
+
+Xoạt.. kít. Hắn phanh gấp.
+
+- Thôi chết muộn rồi.
+
+Tối hôm qua sau khi cày skill cả ngày sau đó về nhà làm nhiệm vụ thì hắn lên được Lv 4, do vui quá nên ngủ rất muộn.
+
+Tên: Phạm Quang Hiệp
+
+Tuổi: 15
+
+Giới tính: Nam
+
+Hp: 170/170 (Hp regeneration: 1,7/s)
+
+Mp: 180/180 (Mp regeneration: 2,6/s)
+
+Lv 4: 200/400 Exp
+
+STR: 8
+
+AGI: 7
+
+VIT: 7
+
+WIS: 8
+
+INT: 8
+
+LUK: 7
+
+Điểm tự do: 20
+
+[Đập]: Lv 5 (max)
+
+Dùng lực toàn thân thông qua vũ khí tung một đòn bổ từ trên xuống, gây sát thương cực lớn. Có tỉ lệ bạo kích, có tỉ lệ gây choáng váng (stun).
+
+Mp: 20
+
+[Trọng kích]: Lv 2 (23%)
+
+Vận sức toàn thân thông qua vũ khí tung một đòn bổ từ trên xuống, gây sát thương chí mạng. Có tỉ lệ bạo kích, có tỉ lệ gây choáng váng (stun).
+
+Mp: 24
+
+[Gậy]: Lv10 (max)
+
+Tăng sức tấn công vật lý khi sử dụng gậy thêm 100%
+
+[Côn]: Lv 3 (35%)
+
+Tăng sức tấn công vật lý khi sử dụng côn, thương, kích, gậy và các vũ khí dài thêm 30%
+
+[Côn] là kỹ năng mà hắn đạt được sau khi [Gậy] max lv nó vẫn tăng thêm 10% sát thương gậy 1 lv như trước chẳng qua là thêm vài loại vũ khí khác.
+
+Còn [Trọng kích] là kỹ năng nâng cấp của [Đập] mặc dù phần giới thiệu không thay đổi nhiều nhưng hiệu quả thì khác hẳn.
+
+Hắn thử dùng [Trọng kích] đánh vào thân cây thì thân cây liền gẫy làm đôi. Sát thương cực kỳ kinh khủng. Nếu một người bình thường mà dính một đòn này chắc là tạch luôn ấy chứ.
+
+----------
+
+Sau khi bị bác bảo vệ kiểm tra thẻ học sinh ghi tên vào sổ do đi muộn thì hắn chạy lên lớp. Đến cửa lớp hắn thở hắt ra nói:
+
+- Thưa thầy, em xin phép vào lớp.
+
+Hắn cực kì xui xẻo, hôm nay sau giờ chào cờ là tiết toán của thầy chủ nhiệm. Ông thầy này của hắn cực kì nghiêm túc đến muộn không bị phạt hơi phí.
+
+- Anh có biết bây giờ là mấy giờ rồi không ... bla bla... Đưa hai tay ra đây.
+
+Hăn giơ hai bàn tay ra trước mặt.
+
+Vù.. chát
+
+Ông thầy hắn cầm cái thước gỗ gõ chán chát vào tay hắn mấy cái.
+
+Mịa, đau thật đấy.
+
+- Được rồi về chỗ đi.
+
+Hắn vừa định đi xuống thì nghe thấy:
+
+Ting, bạn đã thực hiện một chuỗi hành động đặc biệt. Chúc mừng bạn học được kỹ năng [Sức bền thể chất].
+
+[Sức bền thể chất]: Lv 1 bị động
+
+Tăng sức phòng ngự vật lý thêm 10%.
+
+Vậy mà cũng được nữa hả ?????
+
+Hắn ngẩn người ra đó 1 lúc đến khi nghe thấy thầy chủ nhiệm nói:
+
+- Anh không về chỗ đi còn đợi tôi dắt xuống nữa hả.
+
+Hẳn tỉnh táo lại sau đó liền đi xuống chỗ ngôi của mình. Vừa đi vừa nghĩ, có vẻ như mình chưa tận dụng được mấy cái tạo kỹ năng này rồi, mình phải tìm cách học nhiều skill hơn mới được.
+
+-----------.

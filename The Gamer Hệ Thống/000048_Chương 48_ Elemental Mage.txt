@@ -1,0 +1,177 @@
+============================================================
+Chương 48: Elemental Mage
+============================================================
+
+Ting, bạn học được [Manashield]
+
+Ting, bạn học được [Tường đá]
+
+Ting, bạn học được kỹ năng hệ thổ đầu tiên chúc mừng bạn học được [Earth Mastery]
+
+Ting, bạn học được [Thủy cầu]
+
+Ting, bạn học được kỹ năng hệ thủy đầu tiên chúc mừng bạn học được [Water Mastery]
+
+Ting, bạn học được [Giáo băng]
+
+........
+
+Ting, bạn có được đầy đủ kỹ năng của 8 nguyên tố cơ bản chúc mừng bạn học được kỹ năng [Elemental Mage]
+
+[Elemental Mage]: Lv 1 Bị động
+
+Tăng sát thương phép thuật nguyên tố thêm 10%
+
+Giảm tiêu hao các phép thuật nguyên tố đi 5%
+
+Tăng kháng nguyên tố thêm 5%
+
+Vô hiệu hóa các cấm chế phép thuật nguyên tố
+
+[Manashield]: Lv 1 chủ động/ bị động
+
+Nội tại: Dùng Mp hấp thụ 50% sát thương, 1 Mp/ 1 Damage
+
+Kích hoạt: tạo ra một tấm khiên mana bao phủ toàn thân hấp thụ 100% sát thương 1 Mp/ 1 damage + 10 Mp/s
+
+[Fire Mastery]: Lv 10 (max) bị động
+
+Tăng sát thương kỹ năng hệ hỏa thêm 100%
+
+[Lightning Mastery]: Lv 10 (max) bị động
+
+Tăng sát thương kỹ năng hệ lôi thêm 100%
+
+[Earth Mastery]: Lv 1 bị động
+
+Tăng sát thương kỹ năng hệ thổ thêm 10%
+
+[Water Mastery]: Lv 1 bị động
+
+Tăng sát thương kỹ năng hệ thủy thêm 10%
+
+[Ice Mastery]: Lv 1 bị động
+
+Tăng sát thương kỹ năng hệ băng thêm 10%
+
+[Wind Mastery]: Lv 1 bị động
+
+Tăng sát thương kỹ năng hệ phong thêm 10%
+
+[Light Mastery]: Lv 1 bị động
+
+Tăng sát thương kỹ năng hệ ánh sáng thêm 10%
+
+[Darkness Mastery]: Lv 1 bị động
+
+Tăng sát thương kỹ năng hệ bóng tối thêm 10%
+
+[Hỏa tiễn]: Lv 5 (max) Chủ động
+
+Dùng Mp ngưng tụ một mũi tên bằng lửa tấn công mục tiêu. Phát nổ khi va chạm với mục tiêu, gây trạng thái bỏng.
+
+Mp: 125
+
+[Điện giật]: Lv 5 (max) chủ động
+
+Bắn một quả cầu sét về phía đối phương. Gây sát thương lớn, gây trạng thái tê liệt (paralysis) không thể cử động trong một thời gian ngắn.
+
+Mp: 80
+
+[Tường đá]: Lv 1 chủ động
+
+Tạo một bức tường bằng đá.
+
+Mp: 30
+
+[Thủy cầu]: Lv 1 chủ động
+
+Bắn một quả cầu nước về phía đối phương. Gây sát thương lớn.
+
+Mp: 30
+
+[Giáo băng]: Lv 1 chủ động
+
+Dùng Mp ngưng tụ một ngọn giáo bằng băng tấn công mục tiêu. Gây sát thương lớn, gây làm chậm (slow) trong thời gian ngắn
+
+Mp: 45
+
+[Phong trảm]: Lv 1 chủ động
+
+Bắn một lưỡi dao gió về phía đối phương. Gây sát thương lớn, gây chảy máu (Bleed).
+
+Mp: 40
+
+[Hồi phục]: Lv 1 chủ động
+
+Triệu hồi ánh sáng đức tin hồi phục Hp cho mục tiêu
+
+Mp:50
+
+[Mù lòa]: Lv 1 chủ động
+
+Triệu hồi bóng tối nguyền rủa đối phương khiến đối phương mất thị giác trong thời gian ngắn
+
+Mp: 50
+
+[Chaos Meteor]: Lv 1 chủ động
+
+Thả một viên thiên thạch từ bầu trời xuống. Gây sát thương cực lớn, gây trạng thái bỏng
+
+Mp: 200
+
+[Thunder Storm]: Lv 1 chủ động
+
+Triệu hồi một cơn bão sấm sét đánh xuống mục tiêu. Gây sát thương cực lớn, gây trạng thái tê liệt (paralysis).
+
+Mp: 150
+
+[Earthquake]: Lv 1 chủ động
+
+Tạo ra một cơn động đất khiến mặt đất vỡ vụn ra tấn công đối thủ. Gây sát thương cực lớn.
+
+Mp: 200
+
+[Tsunami]: Lv 1 chủ động
+
+Tạo ra cơn sóng thần tấn công đối thủ. Gây sát thương cực lớn
+
+Mp: 200
+
+[Ice Rain]: Lv 1 chủ động
+
+Tạo ra cơn mưa băng tấn công đối thủ. Gây sát thương cực lớn, gây tráng thái đóng băng (freeze).
+
+Mp: 150
+
+[Tornado]: Lv 1 chủ động
+
+Tạo ra cơn lốc xoáy tấn công đối thủ. Gây sát thương cực lớn.
+
+Mp: 150
+
+[Remove Curse]: Lv 1 chủ động
+
+Chúc phúc đối phương, loại bỏ mọi trạng thái bất lợi
+
+Mp: 300
+
+[Blood Saber]: Lv 1 chủ động
+
+Tạo ra một lưỡi gươm bằng máu tấn công đối thủ
+
+Mp: 100 + 30/s
+
+........
+
+Hắn học rất nhiều skill tấn công nguyên tố và một số phép thuật phụ trợ khác nữa. Giờ đây bảng skill của hắn cực kỳ phong phú thêm vào việc skill [Elemental Mage] có thể vô hiệu hóa các cấm chế phép thuật nguyên tố tức là cho dù hắn bây giờ có ở trong kết giới ảo ảnh của đảo Thiên Đường đi chăng nữa thì hắn vẫn có thể dùng được phép thuật nguyên tố.
+
+Skill đã có đầy đủ rồi, chỉ còn đợi những người ở Thư viện cổ đại chế tạo đồ cho hắn là hắn có thể lao vào công cuộc cày cuốc rồi. Đồ đạc đầy đủ phép thuật bá đạo, cho dù không cần học [Teleport] thì giờ hắn vẫn hoàn toàn đủ sức đi vào Dungeon rồi.
+
+Hắn học skill xong thì cảm thấy hết sức thả lỏng. Mấy ngày tiếp theo hắn dành thời gian thăm quan thành phố dưới đáy biển này. Hệ thống của hắn có chức năng chuyển đổi tiền tệ nên hắn hoàn toàn không cần lo lắng việc không có tiền ở đây. Hắn mua rất nhiều các dụng cụ phép thuật kỳ quái và mấy đồ trang sức phép thuật về để làm quà cho mấy cô gái.
+
+Đến sáng ngày thứ 5 hắn gần như đã thăm thú hết những nơi đặc sắc ở nơi này rồi nên hắn cũng bắt đầu thấy nhớ nhà. Sau đó hắn đi tới tìm ông già Elf đại trưởng lão và nhờ ông ta đưa hắn trở về nước.
+
+Ông già Elf cử người đưa hắn tới cổng dịch chuyển ở giữa sảnh của tổng bộ nhưng do ở Việt Nam không có phân hội của Hội Pháp Thuật nên hắn được đưa tới nước Anh rồi hắn mua vé máy bay trở về Việt Nam.
+
+-------------.

@@ -1,0 +1,83 @@
+============================================================
+Chương 12: Huấn luyện
+============================================================
+
+Ngồi vật vờ trong lớp học thỉnh thoảng hắn nhìn ra cửa sổ, thỉnh thoảng nhìn Linh.
+
+- [Quan sát]
+
+Tên: Trần Huyền Linh
+
+Tuổi: 15
+
+Giới tính: Nữ
+
+Hp: 450/450 (Hp regeneration: 4.5/s)
+
+Mp: 250/250 (Mp regeneration: 4.3/s)
+
+Lv 17
+
+STR: 30
+
+AGI: 39
+
+VIT: 35
+
+WIS: 18
+
+INT: 15
+
+LUK: 10
+
+Con gái của chưởng môn phái "Nữ Huỳnh Đạo"
+
+Kỹ năng: Nữ Huỳnh Quyền Pháp, Nữ Huỳnh Bộ, Quyền pháp Tinh Thông.
+
+Linh tăng 4 cấp, chỉ số cũng tăng vọt theo, AGI của Linh bây giờ đã gần gấp đôi hắn. Nếu hắn không trang bị 'Ngọc tâm linh' thì không chỉ có AGI mà ngay cả VIT của Linh cũng gần gấp đôi hắn luôn.
+
+Tổng điểm là 147, hắn không nghĩ rằng người khác khi lên cấp thì được +1 all stat như hắn, nếu không Linh cũng sẽ không có những chỉ số WIS INT và LUK thấp như vậy.
+
+Nếu trừ đi 30 điểm cho mỗi stat 5 điểm khởi đầu thì Linh vẫn còn 117 điểm.
+
+Quá cao so với 1 nhân vật cấp 17 !!!
+
+Một con zombie cấp 15 có chỉ số STR cực cao cũng chỉ có 27, nhưng các chỉ số khác thì cực thấp, INT là bằng 0 luôn. Thậm chí là con thủ lĩnh được cho là vượt trội hẳn so với những con cùng cấp thì tổng điểm cũng chỉ là khoảng trên 110 điểm ở cấp 22.
+
+Cuối giờ học hắn phải tìm Linh hỏi cho ra lẽ mới được. Hắn vốn đã có lợi thế hơn những kẻ khác vì được +1 all stat mỗi cấp, nếu như biết được phương pháp của Linh hắn có sẽ trở nên càng thêm mạnh mẽ.
+
+Sau lần tăng hết vào INT hắn đã quyết định đi theo con đường pháp sư thuần INT nhưng nếu có cách tăng điểm STR AGI và VIT lên thì càng tốt vì ai cũng biết nhược điểm cố hữu của mọi dòng pháp sư chính là thủ thấp và máu giấy.
+
+Nếu bị kẻ địch tiếp cận mà không có kỹ năng khống chế hoặc phòng ngự thì pháp sư thua chắc.
+
+--------
+
+Tan học, hắn đợi mọi người đi ra khỏi lớp hết thì bắt đầu đi ra, sau đó hắn liền hướng tới cầu thang và đi lên tầng 4. Hắn đi tới 1 góc khuất ở trên hành lang.
+
+Đây chính là vị trí mà lần trước Linh kéo hắn tới. Đứng chờ khoảng 5 phút thì hắn thấy Linh đi tới từ phía cầu thang.
+
+Vừa tới chỗ hắn Linh liền hỏi:
+
+- Cậu ra lâu chưa ?
+
+- Tớ học cùng lớp với cậu mà, tớ mới ra được vài phút thôi.
+
+- Ừ nhỉ, tớ quên mất, hì hì.
+
+Hắn cũng đến chịu bà cô này, có thế mà cũng quên. Thảo nào Lv thì cao mà INT thì thấp, hóa ra có tính đãng trí.
+
+Thế
+
+Hắn vừa định hỏi thì Linh cắt lời nói:
+
+- Cậu muốn biết tuần trước tớ đi đâu đúng không?
+
+- Đúng vậy, không phải cậu hẹn tớ ra đây để nói cho tớ biết sao.
+
+- Được rồi, tớ sẽ nói cho cậu biết.
+
+Nhìn hắn một chút rồi Linh nói:
+
+- Tuần trước tớ đi huấn luyện ở doanh trại của mẹ tớ.
+
+----------.

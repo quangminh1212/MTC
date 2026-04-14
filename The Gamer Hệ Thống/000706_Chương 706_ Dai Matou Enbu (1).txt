@@ -1,0 +1,111 @@
+============================================================
+Chương 706: Dai Matou Enbu (1)
+============================================================
+
+Sự kiện khai mạc của kỳ đại hội phép thuật lần này có mục đích là để giảm thiểu số đội lọt vào vòng trong xuống còn 8 đội.
+
+Mỗi 1 đội đều được chỉ định tới 1 nhà trọ là bởi vì đó chính là điểm xuất phát của họ. Từ trong nhà trọ sẽ xuất hiện 1 cầu thang bằng ván gỗ dẫn lên tới 1 tòa mê cung trên không, 8 đội có thể vượt qua mê cung và tới đích sớm nhất sẽ được lọt vào vòng trong.
+
+Mặc dù vòng đấu sơ khảo này có phần dựa vào vận may và trí thông minh nhưng chủ yếu thì vẫn cần tới sức mạnh. Bởi lẽ bên trong mê cung hoàn toàn không nghiêm cấm việc tấn công lẫn nhau, thậm chí là có giết chết đối phương cũng chẳng sao.
+
+Ngoài ra còn có điều kiện là cả 5 thành viên đều phải cùng nhau tới được đích nên trừ khi là quá mức may mắn không gặp phải bất cứ hội pháp sư nào khác nếu không thì bắt buộc phải có thực lực đủ mạnh để đánh bại kẻ định tấn công mình và chủ động tấn công kẻ khác để loại bỏ đối thủ của mình 1 cách trực tiếp.
+
+(* Mê cung này là 1 Labyrinth khác với Maze. Sự khác biệt giữa Labyrinth và Maze có thể hiểu như sau:
+
+Labyrinth là con đường chỉ có 1 chiều, 1 lối vào và 1 đích đến, nó có thể kéo dài ra nhờ vào các lối rẽ (trái hoặc phải chứ không hề có phân nhánh) để kéo dài con đường tới đích đến.
+
+Maze là 1 tổ chức phức tạp gồm nhiều lối vào, và có thể có nhiều lối ra. Đường đi của Maze có nhiều phân nhánh, nhiều con đường và rất nhiều đường cụt.
+
+So với Maze thì độ phức tạp của Labyrinth thấp hơn và không phải được thiết kế ra để làm khó người khác)
+
+Sức mạnh của Fairy Tail thì không cần phải bàn cãi, sau khi giải phóng nhị nguyên thì sức mạnh của tất cả mọi người đã bắt kịp thậm chí là còn vượt qua cả cấp độ phép thuật tiêu chuẩn của thời điểm hiện tại.
+
+Hắn cùng Erza, Gray, Lucy và Wendy tiến vào bên trong mê cung không bao lâu thì đã chạm trán với những hội pháp sư khác rồi, chỉ có điều so với bọn hắn thì đừng nói với Erza, kể cả 1 pháp sư không thiên về chiến đấu như Wendy cũng có thể dễ dàng đánh bại chúng.
+
+Thêm vào đó hắn có thể sử dụng Haki để quan sát toàn bộ mê cung này nên có hắn dẫn đường bọn họ hoàn toàn có thể yên tâm là có thể tới được đích.
+
+Nhưng có vẻ như Erza và Gray lại càng thêm ưa thích bạo lực nên không chờ hắn hướng dẫn cô đã ra tay tấn công những nhóm khác để cướp lấy bản đồ từ tay của họ và tự mình tìm ra đường đi ngắn nhất.
+
+Chính vì vậy nên họ để lỡ khá nhiều thời gian và vẫn chỉ là đội cuối cùng vượt qua được vòng sơ khảo.
+
+……….
+
+Sáng ngày hôm sau, đại hội phép thuật cuối cùng cũng chính thức bắt đầu khi tìm ra được 8 đội vượt qua vòng sơ khảo.
+
+Từ rất sớm mọi người đều đã tập trung ở bên trong đấu trường khổng lồ Domus Flau nằm trên 1 ngọn đồi ở ngoại ô của kinh đô.
+
+Hắn cùng với mấy người Erza cùng nhau mặc vào bộ đồ màu đen có in hình hội huy của Fairy Tail do Makarov đưa cho và ngồi ở trong phòng chờ riêng của mình.
+
+Sau khi được người của ban tổ chức tới thông báo chuẩn bị thì bọn hắn bắt đầu tiến vào bên trong sân của đấu trường. Ở xung quanh, khán đài đều đã đầy ắp người đều đang hò reo đầy phấn khích, dù sao đây cũng là sự kiện lớn nhất trong năm của cả vương quốc.
+
+- Đầu tiên là một đội của 1 hội đã từng được vinh danh là hội số 1 của Fiore 7 năm về trước, liệu họ có thể lấy lại được vinh quanh ngày trước không - giọng của MC vang lên - chúng ta sẽ sớm được biết thôi, xin hãy chào mừng đội Fairy Tail !!!
+
+5 người bọn hắn bước vào sân đấu trường thì ngay lập tức đám khán giả liền la ó. Cũng phải thôi khi mà mọi năm khi mà còn chưa giới hạn số lượng các hội tham gia như năm nay Fairy Tail vẫn đứng bét bảng thì đám khán giả đều nghĩ là bọn hắn đã ăn may hoặc là gian lận thì mới lọt được vào trong danh sách 8 đội mạnh nhất.
+
+Trong khi đó những thành viên khác của Fairy Tail cùng với Makarov đang ở trên hàng đầu của khán đài mang theo 1 lá cờ in hình hội huy của Fairy Tail cổ vũ cho hắn.
+
+- Và tiếp theo đó là là đội tới từ 1 hội chỉ mới được thành lập cách đây không lâu, năng lực của họ là 1 ẩn số cực kỳ bí ẩn đối với chúng ta, xin chào đón, đội về thứ 7 trong sự kiện khai mạc, Akatsuki !!!
+
+MC vừa dứt lời thì từ bên trong đường hầm liền có 1 nhóm gồm 5 người không rõ dung mạo tiến ra.
+
+Sở dĩ nói rằng không rõ dung mạo là bởi vì cả 5 người đều mặc 1 chiếc áo choàng dài màu đen thêu những đám mây màu đỏ và đội 1 chiếc nón rộng vành che khuất khuôn mặt của họ.
+
+- Hội Akatsuki mặc dù chỉ mới được thành lập cách đây chưa đầy 3 tháng nhưng danh tiếng của họ đang tăng lên 1 cách chóng mặt - giọng của MC lại vang lên - không chỉ bởi vì họ có tỉ lệ hoàn thành nhiệm vụ 100% kể cả nhiệm vụ cấp S mà còn bởi sử bí ẩn của họ nữa. Không ai biết được khuôn mặt thật sự của những thành viên Akatsuki trông như thế nào và ngay cả vị trí của hội bọn họ cũng chỉ có duy nhất hội đồng pháp sư mới biết được.
+
+Khán giả nghe giới thiệu tới Akatsuki thì lập tức hò reo cổ vũ ngay cả khi họ là 1 hội mới được thành lập cách đây chưa đầy 3 tháng. Như vậy cũng đủ hiểu được độ nổi tiếng của Akatsuki rồi.
+
+- Đám Akatsuki đó là ai mà khán giả cổ vũ nhiệt tình vậy nhỉ - Gray nhìn về phía đội Akatsuki và thắc mắc.
+
+- Bọn họ được thành lập chưa đầy 3 tháng có nghĩa là trong thời gian chúng ta ở Tinh Linh Giới họ mới xuất hiện thì đương nhiên là chúng ta sẽ không nghe nói tới họ - Lucy nói.
+
+- Nhưng chỉ mới thành lập 3 tháng mà đã nổi tiếng như vậy thì cũng là đối thủ đáng phải lưu tâm đấy - Erza nghiêm túc nói.
+
+Trong lúc mọi người bàn tán thì hắn đứng ở phía sau che miệng cười thầm. Thành lập hội Akatsuki chỉ là ý định nhất thời của hắn mà thôi, bây giờ xem ra cũng thú vị ra phết.
+
+Với khả năng của hắn thì muốn thành lập 1 hội cũng không khó, toàn bộ 5 thành viên của đội Akatsuki đứng kia đều là phân thân Lục Đạo của hắn.
+
+Tất cả đều được biến thành từ Mộc Phân Thân nên có thể tồn tại rất lâu mà không phải cứ dính đòn là biến mất như Ảnh Phân Thân.
+
+Trong thời gian 3 tháng hắn ở trong Tinh Linh Giới thì Akatsuki với lối hành động cực kỳ bí ẩn mà lại có hiệu quả rất cao đã nhanh chóng nổi tiếng khắp vương quốc Fiore. Giờ đây Akatsuki tham dự vào đại hội phép thuật này thì mọi người đều coi họ là 1 con hắc mã của kỳ đại hội lần này.
+
+Tiếp sau hội Akatsuki do hắn sáng lập ra thì hội về thứ 6 là Mermaid Heel, hội về thứ 5 là Blue Pegasus, thứ 4 là Lamia Scale. Mọi người khá là bất ngờ khi nhìn thấy 1 người mà đã lâu rồi bọn họ không gặp lại ở trong đội hình của Lamia Scale, Laxus.
+
+Sau thời gian 7 năm dài đằng đẵng thì Laxus dường như đã tỉnh ngộ lại mà lựa chọn tham gia vào hội Lamia Scale, sự xuất hiện của Laxus khiến cho mọi người bất ngờ.
+
+- Thôi xong rồi, Lamia Scale có Jura là 1 trong Thánh Thập Đại Ma Đạo còn chưa đủ đáng sợ hay sao mà lại có thêm cả Laxus tham gia nữa… - Max thốt lên.
+
+- Vậy ra mấy năm nay thằng nhóc con đó đã tham gia vào Lamia Scale hả - mặc dù tỏ ra bực bội nhưng trong giọng nói của Makarov vẫn ẩn chứa sự vui mừng.
+
+Hội về thứ 3 là hội Raven Tail do lão Ivan, con trai của Makarov và là cha của Laxus thành lập từ hơn 7 năm trước và mới trở thành 1 hội hợp pháp cách đây không lâu.
+
+Trong đội hình của Raven Tail, có 1 khuôn mặt mà đã lâu rồi hắn chưa gặp lại, Gajeel. Gajeel đi trong đội hình của Raven Tail ngang qua mặt hắn thì liền quay qua nói:
+
+- Tao nhất định sẽ giết mày để trả thù cho Metalicana - Gajeel tỏa ra 1 luồng sát khí cực mạnh khi nhìn về phía hắn.
+
+Kể từ khi Gajeel được Metalicana cứu đi thì hắn không còn gặp lại tên này nữa. Có vẻ như là Gajeel vẫn kịp gặp mặt Metalicana lần cuối trước khi nó biến mất.
+
+Gajeel hẳn là đã biết lý do tại sao Metalicana bỗng nhiên biến mất và sau đó quy kết hắn chính là thủ phạm đã giết chết con rồng đó.
+
+Mà như vậy cũng không hẳn là sai, bản thân hắn đã từng muốn giết chết Gajeel và Metalicana chỉ là đánh đổi mạng sống của mình để bảo vệ tính mạng của Gajeel nên cũng có thể coi như là hắn gián tiếp giết chết Metalicana.
+
+- Thời gian 7 năm qua đã khiến cho ngươi có sự tự tin lớn như vậy sao ? - hắn lạnh lùng nhìn Gajeel - cái mạng sống mà con rồng kia đã phải đánh đổi cả tính mạng để cứu lấy, ta sẽ nhanh chóng để cho nó biến mất 1 lần nữa thôi.
+
+Dám ra tay với hắn thì phải chết, hắn chẳng chút nào hối hận vì hành động của mình hết.
+
+- Mày… - Gajeel giận dữ muốn ra tay những bỗng nhiên bị tên mặc áo giáp đứng bên cạnh cản lại.
+
+Tên này chính là Ivan cải trang thành, mặc dù luật không cho phép hội trưởng của hội được tham gia nhưng với 1 kẻ đứng đầu 1 hắc hội như Ivan thì luật lệ chẳng là gì.
+
+- Đợi vào trận đấu rồi ngươi muốn làm gì thì làm - Ivan nói.
+
+Gajeel tức giận bỏ đi sau đó đám Raven Tail cũng đi theo.
+
+Vị trí thứ 2 không ngoài dự tính của hắn là đội hình Fairy Tail B do Mirajane, Erza Knightwalker, Juvia, Elfman và Cana thành lập nên.
+
+- Cái gì !?! Tại sao Fairy Tail lại có 2 đội tới tham gia ? - đám khán giả hết sức bất ngờ khi nhìn thấy Fairy Tail có tới 2 đội tham gia - tại sao lại có 2 cô gái giống nhau vậy… chị em sinh đôi à ?
+
+Sau khi được MC giải thích về những điều luật mới của năm nay thì đám khán giả liền hơi lặng xuống nhưng vẫn còn 1 số người lên tiếng phản đối. Có điều là điều luật cho phép 2 đội tham gia vào đại hội đã được ban hanh từ lâu chẳng qua những đội khác hoặc là không đủ thông minh để nhận ra hoặc là không đủ sức thông qua vòng sơ khảo mà thôi.
+
+Sau đó MC giới thiệu đội về đầu tiên cũng là đội cuối cùng tham dự vào vòng trong là Sabertooth thì Dai Matou Enbu cuối cùng cũng được bắt đầu.
+
+-------☆☆☆☆-------.

@@ -1,0 +1,139 @@
+============================================================
+Chương 17: Gọi đệ
+============================================================
+
+Chiều thứ 7, đã tròn 1 tuần kể từ khi hắn lập ra mục tiêu là lên Lv 30 trước khi hết tuần này.
+
+Đúng ra theo kế hoạch thì bây giờ hắn phải đang train quái mới đúng. Nhưng hôm nay hắn quyết định cho bản thân mình nghỉ ngơi đến hết Chủ nhật.
+
+Cũng không phải do hắn lười nhác hay gặp trục trặc gì mà lý do rất đơn giản.
+
+Chiều ngày hôm qua hắn đã đạt đến cấp 30 !!!
+
+Vốn dĩ, hắn không thể lên cấp nhanh như vậy sau khi điểm kinh nghiệm cần thiết để lên Lv của hắn đã tăng thêm 200 exp thay vì 100 exp như trước. Nhưng sau 3 ngày đầu cày Lv hắn chỉ mới lên được Lv 24, thì skill [Tạo bãi quái] của hắn lên cấp 2.
+
+[Tạo bãi quái]: Lv2 (3%) Chủ Động, Đặc biệt
+
+Tạo ra một kết giới ảo ảnh.
+
+Mp: 200
+
+Tùy chỉnh*
+
+Ngoài việc giới thiệu skill vẫn vậy và Mp sử dụng lên tới 200 ra thì thay đổi lớn nhất phải nói đến đó là mục Tùy chỉnh.
+
+Loại hình kết giới ảo ảnh đã thêm 2 mục mới đó là Ngục tối (Dungeon) và Kết giới đặc biệt.
+
+Ngục tối (Dungeon): tạo ra một kết giới 10 tầng, mỗi tầng sẽ có số lượng quái và độ nguy hiểm tăng dần. Hoàn thành hết 10 tầng sẽ nhận được phần thưởng đặc biệt.
+
+Kết giới đặc biệt: tạo ra một kết giới đặc biệt, có những hiệu quả khác nhau tùy theo sự khống chế của chủ kết giới. Hiệu ứng: Regeneration, Cell,...
+
+Dungeon thì giới thiệu rất rõ rồi, còn Kết giới đặc biệt thì sẽ tạo ra một kết giới có hiệu ứng đặc biệt, như là hiệu ứng regeneration sẽ tăng tốc độ hồi phục Hp và Mp, Cell thì là một nơi giam giữ kẻ khác, có tác dụng tạo ra những hiệu quả khống chế suy giảm sức mạnh của những kẻ bước vào kết giới này...
+
+Ngoài ra còn xuất hiện thêm 1 mục trong phần tùy chỉnh đó là mục [Điều chỉnh thời gian]. Hắn có thể khiến cho thời gian trong kết giới ảo ảnh trôi qua nhanh hoặc chậm hơn so với thế giới hiện thực. Tốc độ chảy của dòng thời gian liên quan tới lượng Mp tiêu hao khi tạo kết giới.
+
+Nếu hắn muốn tốc độ trong kết giới nhanh hơn thế giới thực gấp đôi, tức là tỉ lệ 2:1, thì lượng mana cần tiêu hao để tạo kết giới ảo ảnh là 400 Mp.
+
+Với lượng Mp hiện tại của hắn thì hắn có thể tạo ra kết giới ảo ảnh với chênh lệch thời gian tối đa là 11:1. Nhờ vậy mà sau khi skill [Tạo bãi quái] lên Lv hắn rất nhanh liền lên tới Lv 30.
+
+Tên: Phạm Quang Hiệp
+
+Tuổi: 15
+
+Giới tính: Nam
+
+Hp: 744/744 (Hp regeneration: 7.44/s)
+
+Mp: 2320/2320 (Mp regeneration: 28.9/s)
+
+Lv 30: 150/4000 Exp
+
+STR: 34 +8
+
+AGI: 33 +8
+
+VIT: 33 +18 +1
+
+WIS: 34 +23
+
+INT: 184 +38
+
+LUK: 33 +8
+
+Điểm tự do: 0
+
+Hắn đã đem toàn bộ số điểm tự do có được tăng vào chỉ số INT để tạo kết giới ảo ảnh với tốc độ cao hơn, nhằm có nhiều thời gian để luyện cấp hơn.
+
+Trong thời gian vừa rồi hắn cũng nhặt được rất nhiều đồ rơi ra từ boss bãi quái zombie và sơn tặc. Nhưng kỳ lạ một điều là bãi quái sơn tặc những lần sau đó hắn vào thì boss chỉ là thủ lĩnh sơn tặc chứ không phải sơn tặc vương như lần đầu. Dù vậy thu hoạch của hắn vẫn rất phong phú.
+
+'Dây chuyền sinh mệnh': mặt sợi dây chuyền là một viên ngọc lục bảo được nữ thần sinh mệnh chúc phúc, người đeo nó sẽ được kéo dài tuổi thọ.
+
++ 3 all stat
+
++ 10 VIT
+
++ 5% kháng phép
+
+'Nhẫn hiền giả': chiếc nhẫn khảm ngọc là biểu tượng của các quý tộc thời xưa, chiếc nhẫn này từng được một học giả nổi tiếng đeo, nó chính là biểu tượng của trí tuệ.
+
++ 5 WIS
+
++ 10 INT
+
++ 10% sát thương ma pháp
+
+Giáp da thú:
+
+Độ bền: 60/60
+
+Tăng 25% phòng ngự vật lý
+
+Tăng 10% kháng phép
+
+Hắn cũng quay lại map zombie 1 vài lần, 'nhẫn hiền giả' cũng là hắn kiếm được ở đó và kèm theo 1 quyển sách kỹ năng [Summon Spirit Bear].
+
+[Summon Spirit Bear]:Chủ động, cộng sinh
+
+Triệu hồi một tinh linh gấu mạnh mẽ để cùng chiến đấu.
+
+Loài: Spirit Bear
+
+Hp: 1100/1100
+
+Mp: 200/200
+
+Lv 10: 375/500 Exp
+
+STR: 53
+
+AGI: 48
+
+VIT: 51
+
+WIS: 43
+
+INT: 18
+
+Kỹ năng: Entangling Claws, Demolish Abilities, Battle Cry.
+
+Entangling Claws: Spirit Bear khi tấn công có khả năng trói đối phương, khiến đối phương không thể cử động trong 1 thời gian ngắn.
+
+Demolish Abilities: Đòn đánh của Spitir Bear mang theo sức tàn phá khủng khiếp, bỏ qua khả năng phòng ngự của đối phương.
+
+Battle Cry: Spirit Bear hú lên một tiếng, kêu gọi sự trợ giúp của đồng loại từ Spirit World để tăng sức mạnh cho bản thân trong 1 thời gian.
+
+Sát thương tăng thêm 50%
+
+Tốc độ di chuyển tăng thêm 50%
+
+Mp: 100
+
+.....
+
+Từ lúc học được [Summon Spirit Bear] thì việc train quái càng thêm nhẹ nhàng đối với hắn. Một pháp sư có được một cái khiên thịt thì chẳng khác nào hổ thêm cánh. Hơn nữa cái khiên thịt này của hắn cũng không yêu chút nào.
+
+Nó mang theo sờ kiu đặc biệt 'tát bay đầu người' của loài gấu. Mấy tên sơn tặc thông thường ăn 1 vả của nó là đi đời nhà ma rồi. Thậm chí cả thủ lĩnh sơn tặc mà solo với nó cũng chỉ có nước thua. Trừ khi là con sơn tặc vương trước đây chứ không thì đừng hòng thắng được nó.
+
+---------
+
+P/s: skill này là mình lấy của sylla the lone druid trong DotA :).

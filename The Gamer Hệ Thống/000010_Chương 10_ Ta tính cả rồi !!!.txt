@@ -1,0 +1,113 @@
+============================================================
+Chương 10: Ta tính cả rồi !!!
+============================================================
+
+- [Trọng kích].
+
+Sau khi tăng tất cả điểm vào INT lượng mana của hắn tăng vọt, hắn lập tức dùng [Trọng kích] tấn công.
+
+- 144
+
+- 153
+
+- 214
+
+....
+
+- [Trọng kích]
+
+- 223
+
+Uỳnh một tiếng con zombie liền ngã xuống
+
+Ting, bạn nhận được 500 kinh nghiệm.
+
+Ting, bạn đã lên cấp 15.
+
+- Ha ha ha ha, con zombie khốn nạn, biết sự lợi hại của tao chưa !!
+
+Sau khi 1 lần nữa cảm nhận cảm giác lên cấp, hắn vừa định bỏ đi thì thấy dưới chân con zombie hình như có gì đó. Hắn lại gần thì thấy 1 cọc tiền, 1 quyển sách và 1 viên ngọc.
+
+'20 triệu đồng'
+
+'Sách kỹ năng "Hỏa tiễn"'
+
+'Ngọc tâm linh'
+
+Ting, bạn nhận được 'sách kỹ năng "Hỏa tiễn"' bạn có muốn học không.
+
+Có. Không.
+
+Bạn nhận được trang bị 'Ngọc tâm linh' bạn có muốn trang bị không.
+
+Có. Không.
+
+Hắn lập tức chọn có.
+
+Ting, bạn học được kỹ năng [Hỏa tiễn]
+
+[Hỏa tiễn]: Lv 1 Chủ động
+
+Dùng Mp ngưng tụ một mũi tên bằng lửa tấn công mục tiêu. Phát nổ khi va chạm với mục tiêu, gây trạng thái bỏng.
+
+Mp: 50
+
+Ting, bạn học được kỹ năng hệ hỏa đầu tiên, chúc mừng bạn nhận được kỹ năng [Fire Mastery].
+
+[Fire Mastery]: Lv 1 bị động
+
+Tăng sát thương kỹ năng hệ hỏa thêm 10%
+
+Ting, bạn đã trang bị Ngọc tâm linh
+
+'Ngọc tâm linh': Được hình thành trong cơ thể zombie một giống loài không có linh hồn, nên mang theo hiệu ứng đặc biệt.
+
++ 5 all stat
+
++ 20 INT
+
++ 10 WIS
+
++ 20% sát thương ma pháp
+
+Ting, chỉ số INT của bạn vượt qua 100, bạn nhận được skill [Mana Mastery]
+
+[Mana Mastery]: Lv 1 bị động
+
+Tăng sát thương những kỹ năng sử dụng Mp thêm 10%
+
+Giảm tiêu hao các kỹ năng sử dụng Mp đi 5%
+
+Đọc xong thông số hắn im lăng 1 chút rồi liền mỉm cười.
+
+- Ha ha, ta đã tính cả rồi.
+
+Hắn liền gọi bảng thông tin ra.
+
+Tên: Phạm Quang Hiệp
+
+Tuổi: 15
+
+Giới tính: Nam
+
+Hp: 363/363 (Hp regeneration: 3.63/s)
+
+Mp: 1140/1140 (Mp regeneration: 14.9/s)
+
+Lv 15: 240/1500 Exp
+
+STR: 19 +5
+
+AGI: 18 +5
+
+VIT: 18 +5
+
+WIS: 19 +15
+
+INT: 89 +25
+
+LUK: 18 +5
+
+Điểm tự do: 5
+
+---------.

@@ -1,0 +1,97 @@
+============================================================
+Chương 529: Tàu tốc hành Hogwarts
+============================================================
+
+Mỗi 1 cây đũa phép đều được tạo ra từ những nguyên liệu khác nhau nên nó mang theo những đặc tính không hề giống nhau. Mỗi 1 phù thủy đều có 1 khả năng thiên phú riêng nên cũng cần 1 cây đũa phép có thiên hướng giống với thiên phú riêng đó.
+
+Mỗi cây đũa phép với 1 bộ phận nào đó đựng trong thân gỗ của nó có tác dụng giống như 1 vật để khuếch đại ma lực trong cơ thể của phù thủy.
+
+Đó chính là lý do tại sao mà mọi phù thủy đều cần đến đũa phép để có thể thực hiện phép thuật ngoại trừ 1 số rất nhỏ phù thủy sở hữu ma lực cực mạnh nên họ thậm chí có thể làm phép mà không cần đến đũa phép ví dụ như giáo sư Dumbledore.
+
+Nhưng tất nhiên là việc không sử dụng đến đũa phép dẫn đến họ chỉ có thể sử dụng 1 số phép thuật đơn giản như Accio mà thôi.
+
+Và cũng vì không sử dụng đũa phép nên lượng ma lực tiêu hao khi làm phép cũng tăng lên và trái lại tác dụng của phép thuật đó cũng bị hạ thấp đáng kể.
+
+Ngay cả kẻ được xưng tụng là chúa tể hắc ám như Voldemort cũng luôn ham muốn có được 1 cây đũa phép thật mạnh để có thể nâng cao uy lực phép thuật của mình. Đó cũng chính là lý do tại sao mà Voldemort lại bị ám ảnh bởi cây đũa phép Elder Wand trong tay giáo sư Dumbledore.
+
+(Mình ghi tiếng anh là Elder Wand nhé vì ghi đũa phép trưởng lão nghe sượng sượng mà ghi đũa phép cơm nguội như trong bản dịch khác thì cảm thấy nó ngớ ngẩn vãi chưởng).
+
+Hắn cầm chiếc đũa phép màu nâu trên tay và quan sát nó.
+
+Threstal Wand:
+
+Sản phẩm của gia tộc chế tạo đũa phép Ollivanders chế tạo vào năm 1886. Thân đũa làm từ gỗ cây dương với lõi là lông đuôi Threstal.
+
++ 110 INT
+
++ 70 WIS
+
++ 100% tốc độ thi triển bùa chú (Charm)
+
+- 30% tiêu hao Mp khi thi triển bùa chú
+
++ 90% sát thương phép thuật
+
+Sát thương phép: 4539~5843
+
+Chỉ số của cây đũa phép này vậy mà không thua bất cứ 1 vũ khí trung cấp nào kể cả thanh Kotsurei của hắn trước khi được nâng cấp cũng chỉ hơn cây đũa phép này 1 chút chỉ số mà thôi.
+
+Có điều hiện tại ô vũ khí chính của hắn đều đã được trang bị 2 thanh kiếm Kotsurei và Frostmourne rồi. Nếu như bây giờ hắn lại trang bị cây đũa phép này thì sẽ phải thay thế 1 trong 2 ô đồ sẽ khiến chỉ số của hắn bị giảm mạnh.
+
+Có điều hắn cũng không cần phải trang bị cây đũa phép này thì mới sử dụng được nó. Hắn hoàn toàn có thể dùng nó giống như mấy thanh kunai và shuriken như 1 loại vũ khí thông thường mà không cần đặt vào ô trang bị, chỉ là như vậy thì những chỉ số được cộng thêm như INT và WIS hắn sẽ không được hưởng.
+
+Còn riêng nhưng chỉ số như tăng tốc độ thi triển ma pháp hay sát thương phép vẫn sẽ có tác dụng chừng nào hắn còn sử dụng cây đũa phép này để thi triển phép thuật.
+
+Mua đũa phép xong thì mọi thứ cần thiết cho năm học cũng đã được chuẩn bị đầy đủ, hắn và Hermione cầm trả tiền và mang theo cây đũa phép mới của mình và trở về nhà cùng với cha mẹ của cô bé trong khi giáo sư Mcgonagall đưa bọn hắn trở về quán Leaky Cauldron rồi đưa cho bọn hắn 2 tấm vé tàu sau đó Apparition (Độn Thổ) rời đi.
+
+- Harry, hôm nay là sinh nhật cậu đúng không ? Mình có quà tặng cho cậu nè - khi ngồi trên xe ô tô của Mr Granger, Hermione lấy ra 1 chiếc hộp nhỏ từ trong túi áo - mình mua thứ này ở Hẻm Xéo nhưng họ không có dịch vụ gói quà nên mình xin họ 1 chiếc hộp nhỏ.
+
+Thấy Hermione đưa cho mình quà sinh nhật thì hắn hơi bất ngờ, hắn đã bao giờ nói ngày sinh nhật của mình cho Hermione đâu nhỉ ? Với lại hôm nay là sinh nhật Harry Potter chứ đâu phải sinh nhật của hắn…
+
+- Cảm ơn cậu nhé - mặc dù vậy nhưng hắn vẫn nhận lấy hộp quà của Hermione - làm sao cậu biết hôm nay là sinh nhật mình.
+
+- Mình đọc được trong quyển sách này đó, mình không ngờ là trong thế giới phù thủy cậu nổi tiếng đến vậy - Hermione giơ cuốn sách "Lịch Sử Pháp Thuật Hiện Đại" lên và nói.
+
+Vừa rồi khi mua sách tại tiệm Flourish & Blotts thì với tính cách của Hermione đã không thể nào mà nhịn được và mở sách ra đọc ngay lập tức.
+
+Với tên tuổi của Harry Potter thì không thiếu những thông tin cá nhân của cậu ta được ghi lại trong những quyển sách này.
+
+………….
+
+Trong suốt 1 tháng chờ đợi tới ngày nhập học của Hogwarts thì Hermione đã cực kỳ phấn khích và quấn lấy hắn để nói chuyện về thế giới phù thủy. Cô bé đã đọc hết toàn bộ đống sách giáo khoa và những quyển sách lịch sử của thế giới phép thuật rồi nên sau đó toàn qua nhà hắn cả ngày để cướp lấy mấy quyển sách lý thuyết phép thuật mà hắn mua để đọc.
+
+Chỉ khoảng 20 ngày mà Hermione đã ngốn sạch vài chục quyển sách dày cộp của cả 2 khiến cho hắn phải kinh ngạc trước tốc độ đọc của cô bé. Mặc dù tốc độ đọc này không thể sánh bằng hắn được nhưng hắn là 1 trường hợp quái thai rồi nên không chấp làm gì.
+
+Cuối cùng thì 10 ngày cuối cùng của tháng 8 cũng đã trôi qua và hắn không cần phải nghe Hermione càu nhàu vì không có sách để đọc nữa mà chủ đề được chuyển sang chuyện về trường Hogwarts.
+
+Sáng ngày mùng 1 tháng 9, hắn thức dậy từ sớm sau đó qua nhà Hermione ăn sáng sau đó thì Mr Granger chở cả 2 đến nhà ga King Cross vào lúc 10 giờ sáng.
+
+Khi bọn hắn tới nơi thì cũng đã gần 10 giờ rưỡi rồi nên bọn hắn tự mình đi vào nhà ga còn Mr Granger thì trở về phòng khám răng của mình.
+
+Giáo sư Mcgonagall đã hướng dẫn kỹ càng bọn hắn cách để đi vào sân ga 9 ¾ rồi nên không bị lớ ngớ như Harry khi lão Hagrid quên không dặn dò cậu.
+
+Bước qua hàng rào thì hắn và Hermione liền tiến vào 1 sân ga cực kỳ đông đúc trẻ con cùng với bố mẹ chúng đang cố gắng đẩy những chiếc rương to tướng lên trên những toa tàu.
+
+Hắn kéo theo Hermione đang tràn đầy hứng thú với sân ga này và giúp cô mang cái rương của mình lên tàu.
+
+- Harry, cậu khỏe quá - Hermiome thấy hắn dùng 1 tay nhấc chiếc rương nặng hàng chục kilogram mang lên tàu thì kinh ngạc.
+
+Sức khỏe của hắn lớn đến nỗi 2 cái rương này chẳng khác 2 sợi lông vũ là mấy nên hắn cũng lười chẳng muốn sử dụng phép thuật để nâng nó lên cho trông đỡ khác người.
+
+Hắn đặt 2 chiếc rương của mình và Hermione vào góc của 1 toa tàu và cùng cô bé ngồi xuống.
+
+- Trông cũng không khác những toa tàu bình thường lắm nhỉ - Hermione nhìn ngó xung quanh rồi thò đầu nhìn ra ngoài cửa số quan sát dòng người đông đúc ở sân ga.
+
+Bọn hắn tới đây khá sớm nên phải ngồi chờ 1 lát cho tới khi tàu chạy. Vào lúc khoảng 10 giờ 50 phút hắn nhì thấy 1 đám trẻ con có mái tóc đỏ cực kỳ nổi bật giữa đám đông xuất hiện tại sân ga.
+
+Đó chắc chắn không thể là ai khác mà là đám nhóc nhà Weasley. Hắn cũng chẳng có hứng thú quan sát 1 đám nhóc con cho lắm nhưng có 1 thân hình nhỏ bé làm hắn để ý 1 chút.
+
+Ginny Weasley, vợ tương lai của Harry Potter bây giờ vẫn chỉ là 1 cô bé con trông hết sức dễ thương với cái đầu đỏ đang mè nheo với mẹ mình đòi đi tới Hogwarts học.
+
+Nói chung là hình tượng nhân vật của phó bản này tốt hơn rất nhiều so với những nhân vật ở trong bản điện ảnh của Harry Potter.
+
+Khi xem phim Harry Potter thì ngoại trừ Hermione do Emma Watson đóng và nhân vật Luna thì trông khá thuận mắt thì những người còn lại đều do những diễn viên trông chẳng bắt mắt chút nào đóng khiến cho hình tượng những nhân vật như Cho Chang hay là Ginny khiến cho người xem chẳng buồn nhìn đến lần thứ 2.
+
+Cuối cùng thì đồng hồ cũng đã điểm 11 giờ và tàu tốc hành Hogwarts cũng bắt đầu rời ga và khởi hành tới trường Hogwarts.
+
+-------☆☆☆☆-------.

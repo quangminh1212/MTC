@@ -1,0 +1,163 @@
+============================================================
+Chương 51: Phó bản
+============================================================
+
+Hắn giải trừ triệu hồi sau đó tới gần xác con chó.
+
+'Golden Drachma' x 50
+
+'Bình Hp (lớn)' x 6
+
+'Bình Mp (lớn)' x4
+
+Golden Drachma: đồng tiền Hy lạp cổ được đúc bằng vàng, có giá trị lớn
+
+Bình Hp (lớn): hồi 1200 Hp/s
+
+Giúp phục hồi sự sống và một phần thể lực, hiệu quả kéo dài 3s.
+
+Bình Mp (lớn): hồi 1200 Mp/s
+
+Giúp phục hồi năng lượng và một chút tinh thần, hiệu quả kéo dài 3s.
+
+Ngoài mấy đồng tiền vàng và chút máu, mana ra thì hắn chẳng nhặt được cái gì cả. Cái Dungeon này vớ vẩn thật đấy, nếu không phải lượng kinh nghiệm cũng khá thì nó còn chằng bằng được mấy map khác.
+
+- Thoát bãi quái.
+
+Ting, bạn hoàn thành Dungeon và nhận được phần thưởng đặc biệt.
+
+Ting, bạn nhận được [World Stone].
+
+.......
+
+Cái gì kia ? World Stone ??
+
+Phần thưởng đặc biệt của Dungeon là cục đá này ấy hả ?
+
+World Stone:
+
+Mảnh vỡ của viên đá trụ cột tạo nên thế giới.
+
+Cái viên sỏi méo mó bé tin hin này là mảnh vỡ rơi ra từ viên đá trụ cột tạo nên thế giới ? Vừa nghe đã thấy hư cấu. Mà cho dù nó là thật thì nó có tác dụng gì cơ chứ. Không có hướng dẫn sử dụng nhỡ ngộ độc... à nhầm nhỡ người ta dùng linh tinh thì sao.
+
+Ngắm nghía một lúc hắn liền nhận định rằng mình lại kiếm được 1 thứ vô dụng nên đành ném nó vào balo.
+
+Mà kệ đi cày cấp tiếp nào !!
+
+- [Tạo bãi quái]...
+
+........
+
+- [Chaos Meteor]
+
+Uỳnh
+
+- 2243
+
+Ting, bạn nhận được 1140 Exp
+
+Ting, bạn đã lên Lv 50
+
+Ting, bạn nhận được [Shop]
+
+Ting, kỹ năng [Tạo bãi quái] của bạn lên Lv 3
+
+Tên: Phạm Quang Hiệp
+
+Tuổi: 15
+
+Giới tính: Nam
+
+Hp: 1391/1391 (Hp regeneration: 13.91/s)
+
+Mp: 3540/3540 (Mp regeneration: 102.6/s)
+
+Lv 50: 567/11000 Exp
+
+STR: 54 +33
+
+AGI: 53 +33
+
+VIT: 53 +43 +1
+
+WIS: 91 +68
+
+INT: 221 +123
+
+LUK: 53 +33
+
+Điểm tự do: 45
+
+[Tạo bãi quái]: Lv3 (max) Chủ Động, Đặc biệt
+
+Tạo ra một thế giới.
+
+Mp: 300
+
+Tùy chỉnh*
+
+Sau suốt hơn 2 tuần liền cày cấp hắn rốt cuộc đã lên tới Lv 50 và skill [Tạo bãi quái] của hắn đã được báo là max Lv. Thông tin của nó cũng thay đổi, không còn là tạo ra kết giới ảo ảnh nữa mà giờ là tạo ra 1 thế giới
+
+Phần tùy chỉnh cũng thay đổi nữa, giờ nó chia ra làm 2 cột riêng biệt, một bên ghi là [Kết giới ảo ảnh] một bên thì ghi là [Phó bản].
+
+Cột [Kết giới ảo ảnh] thì cơ bản vẫn vậy chỉ là có thêm 1 vài loại kết giới khác. Nhưng cột [Phó bản] thì lại hoàn toàn mới.
+
+Ô loại hình của nó chia ra làm: Games, Anime, Điện ảnh, Tiểu thuyết...
+
+Hắn thử ấn vào ô Anime xem thử thì một tấm bảng chi chít những hình Anime hiện ra trước mắt hắn, có nhiều cái thì quen thuộc nhưng cũng có nhiều cái hắn không nhận ra vì hắn chưa xem những Anime đó bao giờ. Hắn thử ấn vào một hình Anime quen thuộc.
+
+Naruto
+
+Phần 1 của loạt phim hoạt hình Nhật nổi tiếng khắp thế giới được chuyển thể từ bộ Manga cùng tên. Phần này kể về Naruto một tên nhóc 12 tuổi là Kyuubi Jinchuuriki của Konoha với ước mơ trở thành Hokage.
+
+Yêu cầu:
+
+Đá không gian x9
+
+World Stone x3
+
+Khuyến nghị: Lv 70~80
+
+Ồ ồ ồ !! Naruto này anh em ơi, kiểu này chẳng phải hắn có thể tạo ra thế giới Naruto để đi vào đó sao. Đó chính là ước mơ của mọi thằng trẻ trâu thích xem Anime. Nếu không tính Doraemon thì Naruto chính là 1 trong những bộ Anime đầu tiên mà hắn xem. Hồi bé khi xem Naruto hắn còn dí sát vào màn hình để nhìn cho kỹ mấy tên nhân vật kết ấn để học theo sau đó ra khoe với lũ bạn trong xóm.
+
+Bộ Manga huyền thoại này đã là người đầu tiên cất bước ra đi vào ngày 10 tháng 11 năm 2014. Bỏ lại 2 người anh em của mình là One Piece và Bleach. Phần 2 của loạt phim là Naruto: Shippuden cũng đã ra tập cuối vào 23 tháng 3 năm 2017. Để lại sau nó là 1 tượng đài Anime. Phần sau của nó là Boruto thì hắn không xem vì nghe khá nhiều đánh giá không tốt về bộ phim sợ sẽ làm hỏng những ký ức tốt đẹp của mình về bộ phim ấy.
+
+Hắn rất muốn lao ngay vào thế giới ninja huyền bí ấy để trải nghiệm cảm giác thuở ấu thơ nhưng khi nhìn kỹ lại yêu cầu thì hắn nhụt chí.
+
+Suốt 2 tuần nay hắn đi khá nhiều Dungeon nhưng tổng số World Stone chỉ là 3 viên và ngoài ra hắn còn kiếm thêm được vài viên đá không gian nhưng hệ thống đã khuyến nghị Lv 70~80 tức là nó có độ nguy hiểm nhất định mà chỉ khi hắn đủ Lv thì mới có thể đương đầu. Tốt nhất là hắn nên nghe theo sự chỉ dẫn, chắc chắn sẽ không có hại cho hắn.
+
+......
+
+Sau khi kiểm tra lại số map Anime thì hắn tìm thấy map khá phù hợp với hắn hiện giờ. Lúc đầu hắn định dành một chút điểm để tăng tất cả chỉ số lên trên 100 nhưng giờ hắn nghĩ ra phương pháp khác hay hơn nhiều.
+
+- Thông tin nhân vật, tăng hết vào INT cho ta, ha ha ha...
+
+Tên: Phạm Quang Hiệp
+
+Tuổi: 15
+
+Giới tính: Nam
+
+Hp: 1391/1391 (Hp regeneration: 13.91/s)
+
+Mp: 3990/3990 (Mp regeneration: 111.6/s)
+
+Lv 50: 567/11000 Exp
+
+STR: 54 +33
+
+AGI: 53 +33
+
+VIT: 53 +43 +1
+
+WIS: 91 +68
+
+INT: 266 +123
+
+LUK: 53 +33
+
+Điểm tự do: 0
+
+Gần 4000 Mp rồi, lượng mana cần thiết để sử dụng [Tạo bãi quái] tăng lên 300 nên giờ với mỗi bội số thời gian tăng thêm cũng sẽ tiêu hao 300 Mp vì vậy hắn cần càng nhiều Mp càng tốt.
+
+-----------.

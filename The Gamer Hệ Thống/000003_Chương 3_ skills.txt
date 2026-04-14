@@ -1,0 +1,93 @@
+============================================================
+Chương 3: skills
+============================================================
+
+Hắn ăn cơm xong vừa định lên phòng để tìm hiểu cái hệ thống này tiếp thì bỗng nhiên hắn nghe thấy tiếng bố  gọi.
+
+- Hiệp ơi, xuống bê giúp bố mấy thùng này vào.
+
+Ting, bạn nhận được một nhiệm vụ
+
+Giúp bố bê đồ:
+
+Bố bạn đang cần bạn mang những thùng hàng vào nhà, hãy mau giúp đỡ ông ấy.
+
+Phần thưởng:
+
+Kinh nghiệm: 100 exp
+
+Bạn có muốn nhận nhiệm vụ này không.
+
+Có.             Không.
+
+Hắn liền chọn có.
+
+- Dạ con xuống ngay đây
+
+Hắn ra cửa thì thấy bố hắn đứng cạnh mấy cái thùng to cao cỡ 1m, hắn liền tới bê vào nhà vừa hỏi:
+
+- Cái gì đây bố?
+
+- À mấy thùng hàng ấy mà, tí bố chuyển đến mấy cửa hàng.
+
+Hắn và bố mang mấy thùng các tông vào nhà.
+
+Ting, bạn đã hoàn thành nhiệm vụ [ giúp bố bê đồ]. Bạn nhận được 100 exp.
+
+Lại được 100 exp, chỉ cần 100 exp nữa là hắn lên được Lv 3 rồi.
+
+- Rồi, mở ra nào mẹ mày để cái kéo ở đâu ấy nhỉ.
+
+Nói xong bố hắn chạy vào bếp tìm.
+
+Hắn ngồi chờ mấy phút không thấy bố hắn mang kéo ra, thế là hắn liền dùng tay xé mấy miếng băng dính ra.
+
+Xé được mấy thùng thì bỗng nhiên một tấm bảng màu xanh quen thuộc nhảy ra trước mắt hắn.
+
+Ting, bạn đã thực hiện một chuỗi hành động đặc biệt. Chúc mừng bạn học được kỹ năng [Xé].
+
+[Xé]: Lv1 Chủ động
+
+Dùng lực bàn tay cào xé đối phương gây sát thương lớn. Kỹ năng này có tỷ lệ bạo kích( critical).
+
+Skill? Hắn ngồi xé mấy cái thùng mà cũng học được skill á...
+
+Sau kho suy nghĩ một lúc hắn liền kêu lên:
+
+- Bảng kỹ năng.
+
+Liền một tấm bảng kỹ năng hiện ra. Trong đó hắn nhìn thấy tổng cộng có 3 kỹ năng.
+
+[Tinh thần gamer]: Lv max bị động
+
+Tinh thần game thủ giúp bạn luôn bình tĩnh trước mọi tình huống. Khả năng phân tích tình hình tăng lên.
+
+[Thân thể gamer]: Lv max bị động
+
+Thân thể của game thủ được số liệu hóa. Sau khi chết có thể sống lại nhưng sẽ mất 50% kinh nghiệm của Lv hiện tại.
+
+[Xé]: Lv1 Chủ động
+
+Dùng lực bàn tay cào xé đối phương gây sát thương lớn. Kỹ năng này có tỷ lệ bạo kích( critical).
+
+Đọc xong phần giới thiệu của mấy kỹ năng này hắn cực kỳ kích động.
+
+Sau khi chết có thể sống lại !!!
+
+Như vậy chẳng phải là hắn bất tử rồi sao !!
+
+Trên đời này có không biết bao nhiêu người ước ao có được sự bất tử, từ xưa đến nay đó luôn là điều mà mọi người hằng mong ước đặc biệt là đối với những kẻ quyền cao chức trọng. Chẳng phảu vì thế mà lũ tung cửa luôn muốn tu tiên hay sao. Chúng muốn tu tiên để có được sự sống dài lâu, thậm chí là bất tử.
+
+Mà bây giờ, 1 trong 2 kỹ năng mà cái hệ thống này cho hắn có thể khiến cho hắn trở nên bất tử. Sao mà hắn có thể không kích động được!!
+
+- Ha ha ha ha !!!!!
+
+Hắn cười to, lúc trước khi hắn biết mình có được hệ thống mặc dù kích động nhưng hắn vẫn nhịn được. Còn bây giờ thì hắn không thể kìm hãm cái sự sung sướng ấy lại được. :)
+
+Hệ thống chưa chắc là đã tốt, nhất là cái hệ thống của hắn không có mấy con tinh linh như trong truyện nên hắn khó mà có thể tận dụng lợi thế của nó. Thêm vào nữa là có mấy cái hệ thống hở tí ra là dọa giết ký chủ, bắt thằng nhân vật chính làm việc như thằng cu li mà không dám phản kháng.
+
+Còn hệ thống của hắn thì sao, vừa vào nhận phúc lợi tân thủ đã được bất tử, hơn nữa hắn thấy rằng hệ thống không có trí năng nhân tạo nào lại là một điều tốt.
+
+Không có trí năng có nghĩa là hệ thống không được điều khiển, mà hệ thống nào dù hoàn hảo đến đâu thì cũng sẽ có bug. Hắn có thể lợi dụng nhưng bug đó để kiếm lợi cho mình.
+
+-----------.

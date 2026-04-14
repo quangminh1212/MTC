@@ -1,0 +1,123 @@
+============================================================
+Chương 463: Rút thưởng
+============================================================
+
+Khi mà hắn đợi chờ những tấm bài rút thưởng quen thuộc xuất hiện thì bỗng nhiên trước mặt hắn xuất hiện 1 tấm bảng nhỏ màu tím.
+
+Ting, mời bạn nhập số điểm (i)
+
+Gì đây ? Lại thêm chức năng mới sao ?
+
+Theo thói quen khi gặp bất cứ điều gì mới là hắn lại ấn vào nút thông tin ở bên cạnh dòng chữ. Một tấm bảng phụ liền hiện ra và giới thiệu về chức năng mới này của hệ thống.
+
+Sau khi đọc kỹ càng thì hắn mới hiểu được tấm bảng này để làm gì.
+
+Đối với những phụ bản có Lv cao hơn 100 thì hệ thống sẽ không để người chơi mở 5 tấm bài với giá trị cố định nữa mà để cho người chơi tự quyết định xem mình muốn rút thưởng trong khoảng giá trị bao nhiêu.
+
+Hắn có thể điền số điểm thành tựu bất kỳ vào trong ô trống của tấm bảng màu tím kia và nhấn bắt đầu là hệ thống sẽ bắt đầu tiến hành rút thưởng.
+
+Nếu như tiến hành như vậy thì sẽ đơn giản hơn rất nhiều và chỉ có 1 lần rút thưởng duy nhất. Việc này để tránh tình trạng hắn thu về những trang bị vô dụng có giá trị quá thấp.
+
+Với lại hắn có thể mua được đá không gian và World Stone từ trong Shop thành tựu nên hắn không còn phải lo về việc kiếm nguyên liệu để vào phó bản.
+
+Vấn đề bây giờ là hắn đang suy nghĩ xem nên đặt vào trong đó bao nhiêu điểm. Hiện tại hắn có 6 280 350 điểm thành tựu, một con số rất lớn, là số điểm lớn nhất mà hắn từng có được.
+
+Hắn suy đi tính lại thì liền quyết định thử dùng 1 000 000 điểm thành tựu để thử vận may. Hiện tại hắn có tới hơn 6 triệu điểm nên 1 triệu điểm không phải là không thể chấp nhận được.
+
+Lần này việc đánh cược dựa trên 1 triệu điểm sẽ giúp hắn có được các trang bị có giá từ 100 000 điểm tới 10 000 000 điểm thành tựu. Nhận được thứ nào thì còn phải xem xét vận may của hắn.
+
+Quay
+
+Hắn điền số điểm 1 triệu vào ô trống và ấn vào nút bắt đầu. Trên tấm bảng màu tím lập tức xuất hiện 1 bàn quay nhỏ đang xoay tròn với tốc độ rất nhanh nhưng với ánh mắt của hắn vẫn có thể nhìn rõ được những chữ được ghi trên đó.
+
+Chiếc bàn quay này được chia ra làm rất nhiều ô nhưng cũng chỉ có 1 vài thứ cố định như: Equipment (trang bị) Ability (năng lực) Skill (kỹ năng) Items (vật phẩm) Special (đặc biệt).
+
+Chiếc bàn quay quay trong khoảng 10 giây rồi sau đó bắt đầu chạy chậm lại và khoảng 10 giây sau thì nó đã ngừng hẳn lại. Hắn nhìn chiếc kim chỉ nằm ở trên ô Trang Bị thì vẫn không biết mình sẽ nhận được thứ gì.
+
+Ting, bạn nhận được trang bị 'Frostmourne'
+
+Frostmourne
+
+Soulbound (gắn kết linh hồn)
+
+Unique (độc nhất)
+
+Two-hand Sword(kiếm sử dụng bằng 2 tay)
+
+Damage (sát thương): 5970~8969
+
+1866 damage per second (mỗi giây gây 1866 damage)
+
++ 100 STR
+
++ 200 VIT
+
++ 150 INT
+
+Yêu cầu: Lv 180
+
+Equip: Người sử dụng thanh Frostmourne sẽ trở thành The Lich King mới.
+
+Đọc được thông tin của thanh Frostmourne khiến cho hắn cảm thấy cực kỳ kích động. Frostmourne, thanh kiếm tượng trưng cho The Lich King nay đã thuộc về hắn.
+
+Ôi trời ơi hãy nhìn chỉ số của nó bá đạo chưa kìa !!! Thậm chí cả thanh Kotsurei của hắn còn thua xa Frostmourne về mặt chỉ số nữa kìa.
+
+Thanh Frostmourne không phân chia sát thương phép hay vật lý vì khi sử dụng nó sẽ tự động chuyển toàn bộ sát thương gây ra thành sát thương Chaos (có khả năng bỏ qua hoàn toàn phòng ngự bằng năng lượng của đối phương).
+
+- Trang bị Frostmourne - hắn hưng phấn hô lên.
+
+Frostmourne là thanh kiếm phải sử dụng bằng 2 tay nhưng không nên quên rằng hắn sở hữu hệ thống. Thanh Frostmourne lập tức được đặt vào ô vũ khí thứ 2 của hắn.
+
+Hắn có tổng cộng 2 ô vũ khí chính (đã lắp Kotsurei và Frostmourne) 2 ô vũ khí phụ (đã lắp Mana Orb và Grimoire) 1 mũ (Cốt Linh Khôi) 1 áo, 1 quần (Cốt Linh Giáp bao gồm cả áo và quần) 1 găng tay (Cốt Linh Thủ) 1 giày (Cốt Linh Hài) và 1 ô cánh. Ngoài ra hắn còn có 2 ô nhẫn (Nhẫn hiền giả và Ký ức của kẻ bị phản bội) 1 ô dây chuyền (Dây chuyền sinh mệnh) cùng 1 ô vòng tay và 1 ô thắt lưng còn để trống.
+
+Đeo thanh kiếm Frostmourne lên thì ngay lập tức chỉ số của hắn đã được tăng lên trông thấy. Thanh Frostmourne có khả năng chuyển đổi sát thương của hắn thanh Chaos Damage giúp bỏ qua hoàn toàn phòng ngự bằng năng lượng nhưng lại khiến cho hắn mất đi khả năng tấn công bạo kích.
+
+Chính vì vậy nên hắn cần có sự lựa chọn chính xác khi đưa ra quyết định sử dụng loại vũ khí nào trong chiến đấu.
+
+Nếu đối đầu với pháp sư hay những kẻ có khả năng sử dụng năng lượng để phòng thủ thì Frostmourne là sự lựa chọn không thể chính xác hơn nhưng đối với những kẻ chỉ thuần túy sử dụng sức mạnh của thân thể hay trang bị để phòng hộ thì Zanpakuto lại thích hợp hơn cả.
+
+Thanh Frostmourne này không chỉ cho hắn 1 lượng chỉ số rất khá mà còn giúp cho hắn có được chiến thuật tấn công phong phú hơn trước nhiều loại đối thủ khác nhau.
+
+Còn về việc sử dụng thanh Frostmourne này sẽ biến hắn thành The Lich King thì lại càng không cần thiết phải lo lắng. Về bản chất thì Lich cũng chỉ là 1 giống loài pháp sư undead mà thôi.
+
+Bản thân hắn vốn là pháp sư và mang trong mình dòng máu Shinso Vampire cũng thuộc về loại Undead nên hắn gần như không cảm thấy gì khi bị biến đổi.
+
+Chỉ là bây giờ hắn đã nhận thêm được danh hiệu 'The Lich King' mà thôi.
+
+The Lich King:
+
+Kẻ thống trị của kỷ nguyên bóng tối, hiện thân của sự phẫn nộ, sự tàn ác và sự trả thù.
+
+Tăng 100% sức chiến đấu khi chiến đấu trong bóng tối
+
+Tăng 100% sức chiến đấu khi chiến đấu trong môi trường băng giá
+
+Gia tăng 50% sức phòng ngự cho các sinh vật bóng tối đồng minh khi chiến đấu bên cạnh The Lich King
+
+Có quyền thống trị tuyệt đối với các loài Undead
+
+Có khả năng ban phát sự bất tử bằng cách biến đối phương thành Undead
+
+Có khả năng gây sợ hãi cho kẻ thù
+
+Vừa sở hữu thần vị, vừa là kẻ lãnh đạo của thế giới bóng tối, hiện tại hắn cảm thấy như mình có thể điều khiển cả thế giới này và ép những kẻ khác phải tuân phục mình vậy !!!
+
+…
+
+Tất nhiên đây cũng chỉ là suy nghĩ thoáng qua do hắn bị ảnh hưởng bởi sự tàn độc ngoài sức tưởng tượng của The Lich King mà thôi. Nhưng rất nhanh với sự trợ giúp của [Tinh thần Gamer] thì hắn đã trở lại như bình thường.
+
+Hắn cảm thấy cực kỳ biết ơn skill đặc biệt mà hệ thống tặng cho hắn. Nếu như không phải nhờ có skill [Tinh thần Gamer] này thì có lẽ sau bao nhiêu chuyện và với đống năng lực hổ lốn trong cơ thể thì hắn đã hóa thành kẻ tâm thần phân liệt từ lâu rồi.
+
+Đặc biệt là vừa rồi ý nghĩ hủy diệt toàn bộ nhân loại đã thoáng xẹt qua trong tâm trí hắn nhưng thật may hắn đã bình tâm trở lại ngay sau đó.
+
+Hắn hiện tại vẫn là hắn khi xưa chỉ thêm vào 1 chút tự tin, 1 chút quyết đoán mà thôi. Những hành động độc ác của hắn không phải là hệ quả của việc nắm giữ sức mạnh quá lớn mà đó vốn đã là con người hắn.
+
+Trước đây phải sống trong 1 xã hội đầy rẫy sự giả dối nên hắn phải tự học cách kiểm soát những suy nghĩ của mình và chỉ bộc phát nó ra khi thực sự tức giận.
+
+Và khi có được sức mạnh vượt trội khiến cho hắn không còn ức chế những suy nghĩ tàn độc của mình nữa nên hắn mới trở nên như vậy.
+
+Lúc này hắn cảm thấy ranh giới mong manh giữa tốt và xấu ở trong hắn đã hoàn toàn biến mất và chỉ để lại 1 tư duy độc nhất.
+
+Hắn đã quyết định từ này sẽ làm mọi thứ mình thích mà sẽ không bao giờ phải băn khoăn về bất cứ điều gì nữa !!!
+
+-------☆☆☆☆-------.

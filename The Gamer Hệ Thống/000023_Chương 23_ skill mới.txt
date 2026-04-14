@@ -1,0 +1,133 @@
+============================================================
+Chương 23: skill mới
+============================================================
+
+Mấy hôm nay hắn chỉ đi loanh quanh map zombie để xem có kiếm được skill gì mới không.
+
+Hắn cảm thấy thủ đoạn công kích của mình quá đơn điệu dễ bị bắt bài, điều này là rất nguy hiểm đối với một pháp sư.
+
+Nhưng số hắn mấy hôm nay đen đủi cực kỳ đánh boss zombie lại chẳng ra được kỹ năng nào cả chỉ toàn mấy bình máu với mana. Giờ máu với mana dự trữ của hắn đã lên đến trên 50 bình.
+
+5h chiều thứ 5 hắn thấy có vẻ cũng đã muộn nên quyết định thử đi thêm 1 map zombie nữa rồi sẽ về nghỉ.
+
+- [Tạo bãi quái] zombie
+
+......
+
+- [Hỏa tiễn]
+
+- 1740
+
+Hắn dọn sạch đám zombie non chỉ trong vòng 5 phút sau đó đứng chờ con thủ lĩnh đi ra.
+
+Gràooo
+
+Một tiếng hét quen thuộc nhưng khi hắn nhìn sang lại thấy 1 con zombie rất kỳ lạ.
+
+Con zombie này không to như con thủ lĩnh bình thường mà chỉ cao khoảng gần 2m, thân hình nó thuôn dài nhỏ gọn chứ không lực lưỡng như con thủ lĩnh.
+
+- [Quan sát]
+
+Loài: zombie (tiến hóa)
+
+Lv 25
+
+Hp: 2100/2100
+
+Mp: 500/500
+
+STR: 40
+
+AGI: 33
+
+VIT: 34
+
+WIS: 25
+
+INT: 21
+
+Khác biệt so với những con zombie khác, con này trong tên có chữ tiến hóa màu bạc. Chỉ số của nó khá giống với người thường hơn là zombie. Các chỉ số rất là đều nhau thêm vào đó con này đã có INT.
+
+Những con zombie khác được miêu tả là không có linh hồn nên chỉ số INT bao giờ cũng là 0 nhưng con tiến hóa này lại có INT là 21, nói cách khác nó đã có được linh hồn. Hắn cực kỳ vui vẻ, càng đặc biệt thì tỉ lệ rớt đồ ngon càng cao. Cả tuần nay hắn không có thu hoạch gì xem ra hôm nay vớ bẫm rồi.
+
+- [Hỏa tiễn]
+
+- 1306
+
+-132
+
+-128
+
+.....
+
+Mặc dù có chỉ số vượt trội nhưng Lv của nó quá thấp so với hắn bây giờ. Chỉ mới ăn vài skill là nó đã chết. Sau đó hắn lại gần để nhặt đồ.
+
+'Ký ức của kẻ bị phản bội'
+
+'Bình Hp (vừa)' x3
+
+'Bình Mp (vừa) x5
+
+'Sách kỹ năng "Teleport" '
+
+'Đá không gian'
+
+Sau khi lướt qua những món đồ nằm trên đất, mắt hắn trợn to lên khi nhìn thấy một quyển sách kỹ năng.
+
+Teleport !!! Kỹ năng mà hắn hằng mong ước !!!
+
+Thử nghĩ xem kẻ địch mất bao công sức tới được trước mặt ngươi thì bụp một cái ngươi liền biến ra một chỗ khác. Bên cạnh manashield thì đây chính là 1 trong 2 skill làm nên tên tuổi của một pháp sư !!!
+
+Ting, bạn nhận được 'Sách kỹ năng "Teleport" ' bạn có muốn học không ?
+
+Có. Không.
+
+Có, tất nhiên là có rồi.
+
+Ting, INT của bạn không đủ 300 bạn không thể học được kỹ năng này.
+
+Cái gì, không đủ INT !!!
+
+Cần 300 INT mới có thể học được teleport sao.
+
+Hắn nhìn quyển sách kỹ năng trên tay đầy tiếc nuối rồi cất nó vào balo. 300 INT thì hắn ít nhất phải đạt cấp 40 mới có thể học được kỹ năng này. Lắc đầu một chút hắn liền nhìn về các món đồ khác.
+
+Bình Hp (vừa): hồi 500 Hp/s
+
+Giúp phục hồi sự sống và một phần thể lực, hiệu quả kéo dài 3s.
+
+Bình Mp (vừa): hồi 500 Mp/s
+
+Giúp phục hồi năng lượng và một chút tinh thần, hiệu quả kéo dài 3s.
+
+Mấy bình máu và mana cỡ trung hồi nhiều gấp 2.5 lần bình nhỏ, cảm thấy khá hài lòng hắn liền gật đầu một chút rồi cất vào balo
+
+'Đá không gian'
+
+Cái viên đá này lần trước hắn đã nhặt được một viên nhưng không biết để làm gì nên đành ném vào balo.
+
+Bạn nhận được trang bị 'Ký ức của kẻ bị phản bội' bạn có muốn trang bị không.
+
+Có. Không.
+
+Có
+
+Nhìn cái tên thì dài dòng như vậy nhưng thực ra đây chỉ là một cái nhẫn.
+
+'Ký ức của kẻ bị phản bội': chiếc nhẫn gia truyền của công tước Victor De Los Santos. Khi bị kẻ thân tín của mình ám hại, ngài đã sử dụng chiếc nhẫn này làm vật dẫn để thực hiện giao kèo với quỷ dữ. Nó biến ngài thành một xác chết biết đi với toàn bộ ký ức hận thù trước khi chết. Sau khi giết sạch kẻ thù của mình ngài cùng chiếc nhẫn đã lạc trong thế giới bóng tối.
+
++ 10 all stat
+
++ 30 INT
+
+Kỹ năng: Nguyền rủa, Giao ước của quỷ.
+
+Nguyền rủa: nguyền rủa khiến kẻ thù chìm trong bóng tối, khiến tất cả chỉ số bị - 10%
+
+Giao ước của quỷ: thực hiện giao ước với quỷ dữ, nhận được + 20% chỉ số nhưng sẽ mất 5% máu mỗi phút không thể hồi phục máu trong trạng thái này trừ các phép thuật ánh sáng.
+
+.......
+
+Chiếc nhẫn này vừa tăng mạnh chỉ số của hắn, vừa mang theo 2 skill. 1 skill kiểu debuff, một skill buff trạng thái. Với chiếc nhẫn này khả năng chiến đấu của hắn sẽ càng thêm mạnh mẽ.
+
+----------.
